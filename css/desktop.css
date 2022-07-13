@@ -1,0 +1,9 @@
+.icon:hover {
+    background-color: rgba(205, 209, 228, 0.5);
+    cursor: pointer;
+}
+
+.xIcon:hover {
+    color: white;
+    cursor: pointer;
+}

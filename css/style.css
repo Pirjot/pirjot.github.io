@@ -1,0 +1,26 @@
+/* Styling for LaviOS */
+
+html {
+    overflow: hidden;
+}
+
+body {
+    background-color: black;
+
+    margin: 0;
+    
+}
+
+.rowflex {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.colflex {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
